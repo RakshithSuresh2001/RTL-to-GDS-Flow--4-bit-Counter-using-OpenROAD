@@ -1,0 +1,5 @@
+*.odb
+*.log
+build/
+logs/
+.DS_Store
