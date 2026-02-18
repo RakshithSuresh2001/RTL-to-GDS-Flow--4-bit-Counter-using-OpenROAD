@@ -389,6 +389,7 @@ export CORE_AREA = 10 10 90 90
 
 - **OpenROAD Project** for the open-source EDA tools
 - **SkyWater Technology** and **Google** for the 130nm PDK
+- Anthropic Claude for technical guidance and troubleshooting
 
 ## 📄 License
 
