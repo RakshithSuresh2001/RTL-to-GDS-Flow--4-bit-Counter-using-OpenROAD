@@ -401,5 +401,6 @@ This project uses open-source tools and PDKs:
 
 **Project Completed:** February 2026  
 **Author:** Rakshith Suresh
+
 **Technology:** SkyWater 130nm  
 **Tools:** OpenROAD, Docker, KLayout
